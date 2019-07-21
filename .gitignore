@@ -2,3 +2,5 @@ bvn-bo/.settings/
 emandates/.settings/
 *.classpath
 *.gitignore
+artemis-poc/.settings/
+artemis-poc/.project
