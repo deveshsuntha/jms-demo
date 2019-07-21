@@ -1,2 +1,4 @@
 bvn-bo/.settings/
 emandates/.settings/
+*.classpath
+*.gitignore
